@@ -1,0 +1,159 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://moleft.github.io/",
+            "path": "index.html",
+            "saved": true,
+            "size": 5861,
+            "children": [
+                {
+                    "url": "https://moleft.github.io/img/fish.png",
+                    "path": "img/fish.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://moleft.github.io/img/food.png",
+                    "path": "img/food.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://moleft.github.io/img/php.png",
+                    "path": "img/php.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://moleft.github.io/img/wallet.png",
+                    "path": "img/wallet.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js",
+                    "saved": false
+                },
+                {
+                    "url": "https://www.jq22.com/demo/jQueryTd201701200015/dist/draggabilly.pkgd.min.js",
+                    "path": "js/draggabilly.pkgd.min.js",
+                    "saved": true,
+                    "size": 20691,
+                    "children": []
+                },
+                {
+                    "url": "https://moleft.github.io/css/FiraCode.css",
+                    "path": "css/FiraCode.css",
+                    "saved": true,
+                    "size": 298748,
+                    "children": []
+                },
+                {
+                    "url": "https://moleft.github.io/css/moleft.css",
+                    "path": "css/moleft.css",
+                    "saved": true,
+                    "size": 7285,
+                    "children": [
+                        {
+                            "url": "https://moleft.github.io/img/background.jpg",
+                            "path": "img/background.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://q1.qlogo.cn/g?b=qq&nk=1805765171&s=640",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://q1.qlogo.cn/g?b=qq&nk=1805765171&s=640",
+                    "saved": false
+                },
+                {
+                    "url": "https://tianqiapi.com/api.php?style=tc&skin=pitaya",
+                    "path": "api.php.html",
+                    "saved": true,
+                    "size": 1554,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "moleft-github-io-vexu0p3m",
+    "info": {
+        "remark": [],
+        "title": "MoLeft - 用心写好每一行代码",
+        "domain": "moleft.github.io",
+        "origin": "https://moleft.github.io",
+        "ip": "185.199.109.153",
+        "main": "index.html",
+        "url": "https://moleft.github.io/",
+        "totalSize": "334 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://moleft.github.io/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://moleft.github.io/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "connection": "close",
+                "content-length": "7468",
+                "server": "GitHub.com",
+                "content-type": "text/html; charset=utf-8",
+                "permissions-policy": "interest-cohort=()",
+                "last-modified": "Mon, 11 Apr 2022 07:48:34 GMT",
+                "access-control-allow-origin": "*",
+                "strict-transport-security": "max-age=31556952",
+                "etag": "\"6253dd52-1d2c\"",
+                "expires": "Wed, 27 Apr 2022 01:34:14 GMT",
+                "cache-control": "max-age=600",
+                "x-proxy-cache": "MISS",
+                "x-github-request-id": "B588:50C4:2D77B:69811:62689B3D",
+                "accept-ranges": "bytes",
+                "date": "Wed, 27 Apr 2022 01:24:14 GMT",
+                "via": "1.1 varnish",
+                "age": "0",
+                "x-served-by": "cache-hnd18724-HND",
+                "x-cache": "MISS",
+                "x-cache-hits": "0",
+                "x-timer": "S1651022654.528670,VS0,VE622",
+                "vary": "Accept-Encoding",
+                "x-fastly-request-id": "717668672ece140572191535d5dac12b9e01734b"
+            }
+        },
+        "time": {
+            "start": "2022-04-27T01:24:13.418Z",
+            "end": "2022-04-27T01:24:16.905Z"
+        }
+    },
+    "options": {
+        "url": "https://moleft.github.io/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
